@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/diced/zipline/trunk/public/zipline_small.png"/>
+  <img src="./public/zidbike_small.png"/>
 
 The next generation ShareX / File upload server
 
